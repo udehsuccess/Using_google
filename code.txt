@@ -1,0 +1,3 @@
+creditID:25547381025-0q99rb54b8hlnlvpmu50cmsea3blk2h2.apps.googleusercontent.com
+sceretID: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
+redirect: http://localhost/google_Login/Using_google/welcome.php
